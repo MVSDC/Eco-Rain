@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eco Rain - Proyecto de Reutilización de Agua de Lluvia</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Vincular el CSS -->
+</head>
+<body>
+    <header>
+        <h1>Eco Rain</h1>
+        <h2>Sistema de Recolección y Reutilización de Agua de Lluvia</h2>
+    </header>
+
+    <section>
+        <h3>Integrantes del Proyecto</h3>
+        <ul>
+            <li>Juan Barrera</li>
+            <li>Sara Carpintero</li>
+            <li>Sara López</li>
+            <li>Bryann Contreras</li>
+            <li>Dylan Grajales</li>
+            <li>Francy Tutira</li>
+            <li>Maikool Sierra</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Materiales y Costos</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Material</th>
+                    <th>Costo (COP)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Madera</td>
+                    <td>Por definir</td>
+                </tr>
+                <tr>
+                    <td>Tubos PVC</td>
+                    <td>Por definir</td>
+                </tr>
+                <tr>
+                    <td>Canal</td>
+                    <td>25,000</td>
+                </tr>
+                <tr>
+                    <td>Varillas de metal</td>
+                    <td>30,000</td>
+                </tr>
+                <tr>
+                    <td>Filtro de malla</td>
+                    <td>50,000</td>
+                </tr>
+                <tr>
+                    <td>Módulo LCD azul 16x2</td>
+                    <td>8,750</td>
+                </tr>
+                <tr>
+                    <td>Sensor HC-SR04</td>
+                    <td>6,300</td>
+                </tr>
+                <tr>
+                    <td>Buzzer para impreso</td>
+                    <td>1,000</td>
+                </tr>
+                <tr>
+                    <td>Módulo Bluetooth HC-06</td>
+                    <td>18,400</td>
+                </tr>
+                <tr>
+                    <td>Tanques de 40L</td>
+                    <td>29,000</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Total: 168,450 COP</strong></p>
+    </section>
+
+    <section>
+        <h3>Funcionamiento del Sistema</h3>
+        <ol>
+            <li>El agua de lluvia se recolecta en un canal del techo.</li>
+            <li>Pasa por un filtro de malla para eliminar impurezas.</li>
+            <li>El sensor HC-SR04 mide el nivel de agua y muestra los datos en una pantalla LCD.</li>
+            <li>Un buzzer alerta cuando el tanque está lleno.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>Proyecto desarrollado por estudiantes de ingeniería.</p>
+    </footer>
+</body>
+</html>
